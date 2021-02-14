@@ -1,0 +1,7 @@
+*.swp
+*.tmp
+*.log
+
+coverage/
+cors-anywhere/node_modules/
+.idea
